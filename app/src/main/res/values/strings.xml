@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="devname">David Goren</string>
+    <string name="profession">Android, IOS, Full Stack Developer</string>
+    <string name="get_intouch">Get in Touch</string>
+
+
+    <string name="about_david">"Hi, my name is David.
+I am the founder of Creative Labs Chile, where I teach people to program and how to become well-rounded developers.
+I've taught more than 20,000 students from over 175 countries how to build program in Java and to build Android apps.
+Teaching is my passion.  My mission is to help 1 Million students to reach their goal of becoming the best developers they can be."</string>
+    <string name="skills">* Java "\n"* Swift "\n"* Android "\n"* iOS "\n"* Teaching "\n"* Php
+      </string>
+
+    <string name="work">
+           * Chat App "\n"* Calories App "\n"* Diary App "\n"* Cat Bio App "\n"*  Teaching Programming
+    </string>
+    <string name="contact"/>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
